@@ -1,3 +1,4 @@
+// new line
 // HHCtrls
 function HHCtrlClose()
 {
